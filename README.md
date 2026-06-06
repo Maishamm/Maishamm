@@ -20,9 +20,9 @@
 
 ---
 
-# Hi, I’m Maisha Mahajabin
+# I’m Maisha Mahajabin
 
-**About myself:** I am a Software Quality Assurance Engineer with a background in Computer Science and Engineering, focused on building reliable, user-friendly, and high-quality software.
+**About myself:** I am a Software Quality Assurance Engineer focused on building reliable, user-friendly, and high-quality software.
 
 My work centers around requirement analysis, test case design, functional testing, API testing, defect analysis, and improving overall product quality. I am also interested in automation testing, performance testing, and AI-assisted QA practices.
 
