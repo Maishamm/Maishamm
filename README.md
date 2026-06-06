@@ -1,29 +1,6 @@
-# Maisha-Mahajabin
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+# Hi, I’m Maisha Mahajabin
 
-<h1 align="center">
-  Let's Connect!💬
-</h1>
-
-<p align="center">
-<a href="mailto:maisham78@gmail.com">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-18-512.png"/>
-</a>
-  <a href="https://www.researchgate.net/profile/Maisha-Mahajabin/research">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/maisha-mahajabin-857a2a1a8/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-</p>
-
-
-
-# About myself
-
-I am a Software Quality Assurance Engineer with a background in Computer Science and Engineering, focused on building reliable, user-friendly, and high-quality software.
+**About myself:** I am a Software Quality Assurance Engineer with a background in Computer Science and Engineering, focused on building reliable, user-friendly, and high-quality software.
 
 My work centers around requirement analysis, test case design, functional testing, API testing, defect analysis, and improving overall product quality. I am also interested in automation testing, performance testing, and AI-assisted QA practices.
 
@@ -32,7 +9,6 @@ Beyond my professional work, I am passionate about Artificial Intelligence and D
 I enjoy solving problems, learning new technologies, collaborating with teams, and continuously improving my technical and analytical skills.
 
 ```yaml
-name: Maisha Mahajabin
 located_in: Dhaka,Bangladesh
 current_job:
 [
