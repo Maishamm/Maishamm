@@ -49,6 +49,24 @@ fields_of_interests:
     "AI",
     "Analysis"
   ]
+tools_and_technologies:
+  [
+    "VS Code",
+    "Python",
+    "C",
+    "C++",
+    "JavaScript",
+    "React",
+    "Selenium",
+    "Playwright",
+    "HTML5",
+    "Bootstrap",
+    "CSS3",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "Figma"
+  ]
 2026 Goals: ["Exploring inner strength along with professional field"]
 ```  
 ---  
