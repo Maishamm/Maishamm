@@ -21,7 +21,7 @@
 
 
 
-# Hi, I’m Maisha Mahajabin
+# About myself
 
 I am a Software Quality Assurance Engineer with a background in Computer Science and Engineering, focused on building reliable, user-friendly, and high-quality software.
 
