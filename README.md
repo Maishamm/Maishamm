@@ -43,7 +43,7 @@ fields_of_interests:
     "AI",
     "Analysis"
   ]
-2024 Goals: ["Exploring inner strength along with professional field"]
+2026 Goals: ["Exploring inner strength along with professional field"]
 ```  
 ---  
   
