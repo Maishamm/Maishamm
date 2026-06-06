@@ -49,24 +49,6 @@ fields_of_interests:
     "AI",
     "Analysis"
   ]
-tools_and_technologies:
-  [
-    "VS Code",
-    "Python",
-    "C",
-    "C++",
-    "JavaScript",
-    "React",
-    "Selenium",
-    "Playwright",
-    "HTML5",
-    "Bootstrap",
-    "CSS3",
-    "MongoDB",
-    "MySQL",
-    "Node.js",
-    "Figma"
-  ]
 2026 Goals: ["Exploring inner strength along with professional field"]
 ```  
 ---  
@@ -89,6 +71,27 @@ tools_and_technologies:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
+
+```yaml
+tools_and_technologies:
+  [
+    "VS Code",
+    "Python",
+    "C",
+    "C++",
+    "JavaScript",
+    "React",
+    "Selenium",
+    "Playwright",
+    "HTML5",
+    "Bootstrap",
+    "CSS3",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "Figma"
+  ]
+```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
